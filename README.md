@@ -38,10 +38,10 @@
 | Thematic (terrain / hydrology / climate) | ![Thematic](logo\thematic.png) |
 
 > 📂 Detailed write‑ups and full‑res exports:
-> - [Point Map](maps\point-map\README.md)
-> - [Heat/Density](maps\heat-density\README.md)
-> - [Route/Flow](maps\route-flow\README.md)
-> - [Thematic](\maps\thematic\README.md)
+> - [Point Map](maps/point-map/README.md)
+> - [Heat/Density](maps/heat-density/README.md)
+> - [Route/Flow](maps/route-flow/README.md)
+> - [Thematic](maps/thematic/README.md)
 
 
 ## Map Gallery (Static/Thematic)
