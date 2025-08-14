@@ -41,7 +41,7 @@
 > - [Point Map](maps/point-map/README.md)
 > - [Heat/Density](maps/heat-density/README.md)
 > - [Route/Flow](maps/route-flow/README.md)
-> - [Thematic](maps/thematic/README.md)
+> - [Remote Sensing](maps/thematic/README.md)
 
 
 ## Map Gallery (Static/Thematic)
