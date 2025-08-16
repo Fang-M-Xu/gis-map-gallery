@@ -32,16 +32,16 @@
 
 | Map Type                                 | Preview                                                      |
 | ---------------------------------------- | ------------------------------------------------------------ |
-| Point Map (retail chains)                | ![Point](logo\point.png) |
-| Heat/Density (population / incidents)    | ![Heat](logo\heat.png) |
-| Route/Flow (tour itinerary)              | ![Route](logo\route.png) |
-| Thematic (terrain / hydrology / climate) | ![Thematic](logo\thematic.png) |
+| Point Map (retail chains)                | ![Point](logo/point.png) |
+| Heat/Density (population / incidents)    | ![Heat](logo/heat.png) |
+| Route/Flow (tour itinerary)              | ![Route](logo/route.png) |
+| Thematic (terrain / hydrology / climate) | ![Thematic](logo/thematic.png) |
 
 > 📂 Detailed write‑ups and full‑res exports:
-> - [Point Map](maps\point-map\README.md)
-> - [Heat/Density](maps\heat-density\README.md)
-> - [Route/Flow](maps\route-flow\README.md)
-> - [Thematic](\maps\thematic\README.md)
+> - [Point Map](maps/point-map/README.md)
+> - [Heat/Density](maps/heat-density/README.md)
+> - [Route/Flow](maps/route-flow/README.md)
+> - [Remote Sensing](maps/thematic/README.md)
 
 
 ## Map Gallery (Static/Thematic)
@@ -83,7 +83,7 @@
 ```text
 .
 ├─ README.md                      # Main showcase (this page)
-├─ assets/                        # Covers & thumbnails
+├─ logo/                        
 ├─ maps/
 │  ├─ point-map/README.md         # Point map case
 │  ├─ heat-density/README.md      # Heat/Density case
