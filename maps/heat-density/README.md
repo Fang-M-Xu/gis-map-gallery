@@ -23,7 +23,7 @@
 
 ### Preview
 
-![preview](heatmap-min.jpg)
+![preview](HeatMap-min.jpg)
 
 ### Deliverables
 
