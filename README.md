@@ -88,7 +88,7 @@
 │  ├─ point-map/README.md         # Point map case
 │  ├─ heat-density/README.md      # Heat/Density case
 │  ├─ route-flow/README.md        # Route/Flow case
-│  └─ thematic/README.md          # Thematic case
+│  └─ thematic/README.md          # Thematic remote sensing case
 
 ```
 
