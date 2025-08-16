@@ -29,9 +29,9 @@
 
 ### Preview
 
-![Climate zoning](climateone-ws-mark.jpg)
-![LST](climateone-lst-mark.jpg)
-![Distance](climateone-distance-mark.jpg)
+![Climate zoning](climateone-ws-mark-min.jpg)
+![LST](climateone-lst-mark-min.jpg)
+![Distance](climateone-distance-mark-min.jpg)
 
 
 ### Deliverables

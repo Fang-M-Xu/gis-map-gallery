@@ -19,7 +19,7 @@
 
 ### Preview
 
-![preview](CoffeeShop.jpg)
+![preview](CoffeeShop-min.jpg)
 
 ### Deliverables
 

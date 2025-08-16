@@ -25,11 +25,11 @@
 - `300 DPI` JPG ; A4 layouts.
 
 ### Preview
-![Manhattan](RouteMap-Manhattan-v2.jpg)
-![Brooklyn](RouteMap-Brooklyn.jpg)
-![Bronx](RouteMap-Bronx.jpg)
-![Queens](RouteMap-Queens-mark.jpg)
-![StatenIsland](RouteMap-StatenIsland.jpg)
+![Manhattan](RouteMap-Manhattan-v2-min.jpg)
+![Brooklyn](RouteMap-Brooklyn-min.jpg)
+![Bronx](RouteMap-Bronx-min.jpg)
+![Queens](RouteMap-Queens-mark-min.jpg)
+![StatenIsland](RouteMap-StatenIsland-min.jpg)
 
 
 ### Deliverables
